@@ -1,0 +1,29 @@
+{
+    "kwargs0": {
+        "ensemble_axes_metadata": [
+            {
+                "_concatenate": true,
+                "_default_type": "overlay",
+                "_ensemble_mean": false,
+                "_squeeze": false,
+                "_tex_label": null,
+                "label": "",
+                "type": "OrdinalAxis",
+                "units": null,
+                "values": [
+                    "O",
+                    "S",
+                    "Cr",
+                    "Mo",
+                    "W"
+                ]
+            }
+        ],
+        "metadata": {
+            "label": "potential",
+            "units": "eV/e"
+        },
+        "sampling": 0.001
+    },
+    "type0": "RealSpaceLineProfiles"
+}
